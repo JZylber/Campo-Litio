@@ -1,7 +1,7 @@
 # Simulador Extracción de Litio
 
 ## Introducción
-Luego de un exitoso trabajo en el simulador de los campos minados, la corporación A.C.M.E. vuelve a pedir tus servicios. Con los caminos limpios, los camiones pueden traer la producción de litio para procesar. Nuevamente, contamos con un simulador que nos permite optimizar la producción. Tiene alguno errores y faltan funcionalidades, necesitamos que lo arreglen.
+Luego de un exitoso trabajo en el simulador de los campos minados, la corporación A.C.M.E. vuelve a pedir tus servicios. Con los caminos limpios, los camiones pueden traer la producción de litio para procesar. Nuevamente, contamos con un simulador que nos permite optimizar la producción. Tiene algunos errores y faltan funcionalidades, necesitamos que lo arreglen.
 
 ## Objetivos
 Hacer un conjunto de tests para el programa, y debugguearlo usando dichos tests.
